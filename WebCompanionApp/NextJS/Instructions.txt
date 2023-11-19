@@ -1,0 +1,49 @@
+///////////////////////////////////////////////////////////
+// Instructions.txt
+//      *   Follow these complete steps to compile and run the app
+//      *   Upon completion the Web Companion App shows SOME of the
+//          data from the Unity Game including player account info
+///////////////////////////////////////////////////////////
+
+// 01. PREREQUISITES
+
+    Complete & Deploy Solidity With Success Per: https://github.com/MoralisWeb3/web3-unity-sdk-sample-game-wump/blob/main/README.md
+    Complete & Run Unity Game With Success Per: https://github.com/MoralisWeb3/web3-unity-sdk-sample-game-wump/blob/main/SmartContracts/Hardhat/Instructions.txt
+    
+
+// 02. OPEN FOLDER "./WebCompanionApp/NextJS/" IN A TEXT EDITOR (EX. VISUAL STUDIO CODE)
+
+
+// 03. COPY FILE "./WebCompanionApp/NextJS/.env.local.videostart" TO "./WebCompanionApp/NextJS/.env.local"
+
+
+// 04. POPULATE ALL VALUES WITHIN "./WebCompanionApp/NextJS/.env.local"
+
+
+// 05. POPULATE THE 'address' VALUE IN "./WebCompanionApp/NextJS/pages/list.jsx' TO MATCH CONTRACT ADDRESS OUTPUT FROM SMART CONTRACT DEPLOYMENT
+
+
+// 06. OPEN FOLDER "./WebCompanionApp/NextJS/" IN A TERMINAL FOR COMMAND LINE 
+
+
+// 07. INSTALL DEPENDENCIES IN A TERMINAL WITH COMMAND LINE 
+
+    npm i
+    
+// 08. BUILD AND RUN APP IN A TERMINAL WITH COMMAND LINE 
+
+    npm run dev
+
+// 09. OPEN WEB COMPANION APP IN BROWSER AT "http://localhost:3000/"
+
+
+// 10. USE WEB COMPANION APP TO AUTHENTICATE WITH SAME WEB3 ADDRESS YOU USE TO PLAY THE UNITY GAME
+
+
+// 11. ENJOY!
+
+    Congratulations, you are done!
+
+
+///////////////////////////////////////////////////////////
+

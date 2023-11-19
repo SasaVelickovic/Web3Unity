@@ -1,0 +1,36 @@
+{
+    "name": "MoralisUnity.Samples.TheGame.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:fe25561d224ed4743af4c60938a59d0b",
+        "GUID:03058786646e84a4587858e9302c3f41",
+        "GUID:5540e30183c82e84b954c033c388e06c",
+        "GUID:4c3f49d89436d478ea78315c03159dcc",
+        "GUID:3b8ed52f1b5c64994af4c4e0aa4b6c4b",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:894a6cc6ed5cd2645bb542978cbed6a9",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:1803aeb6b4e8941f4b1854e1b99b1a9e",
+        "GUID:6c26524a6c90b6541a6149dfb7f235c1",
+        "GUID:4ec0a6fe697cea44a929571e8583e72a",
+        "GUID:dc0d85c9a9837b8479a48e484bc54940",
+        "GUID:2c360f3794ebc41388fc11424ddbfdd0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "Select...",
+            "expression": "",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}
